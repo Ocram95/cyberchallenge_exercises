@@ -1,0 +1,16 @@
+1.
+https://ctftime.org/writeup/17783
+https://khroot.com/2019/12/28/inferno-ctf-2019-write-ups/
+
+2.
+https://ctftime.org/writeup/17314
+
+3.
+https://ctftime.org/writeup/16212
+
+4.
+https://ctftime.org/writeup/16174\
+
+5.
+https://github.com/Hong5489/InnoCTF2019/tree/master/prism
+
