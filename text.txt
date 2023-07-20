@@ -9,5 +9,6 @@ the secret IN image.
 
 4) It's not LSB, its MSB! Red is Random, Green is Garbage, Blue is Boring.
 Hint: only one channel is correct. Also, I like to doing things top down.
+
 5) Do you have a prism to take a closer look?
 
